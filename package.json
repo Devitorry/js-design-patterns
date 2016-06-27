@@ -1,0 +1,25 @@
+{
+  "name": "js-design-patterns",
+  "version": "1.0.0",
+  "description": "Design Patterns implemented in JavaScript ES5 and ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devitorry/js-design-patterns.git"
+  },
+  "keywords": [
+    "es5",
+    "es6",
+    "javascript",
+    "design-patterns"
+  ],
+  "author": "Mohib A. Wasay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devitorry/js-design-patterns/issues"
+  },
+  "homepage": "https://github.com/Devitorry/js-design-patterns#readme"
+}
